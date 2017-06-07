@@ -1,0 +1,566 @@
+{
+    "_type": "DictionaryWords",
+    "instrumentation": {
+        "pingUrlBase": "https://www.bing.com/api/ping?IG=55EC0875F9DB42709C279897B24C0E40&CID=282268570EAA635E1E8662D00F0B62CE&ID=",
+        "pageLoadPingUrl": "https://www.bing.com/api/ping/pageload?IG=55EC0875F9DB42709C279897B24C0E40&CID=282268570EAA635E1E8662D00F0B62CE&Type=Event.CPT&DATA=0"
+    },
+    "value": [
+        {
+            "potentialAction": [
+                {
+                    "name": "更多例句",
+                    "url": "http://www.bing.com/dict/search?q=explicable&FORM=BDVSP2"
+                },
+                {
+                    "name": "下载App",
+                    "url": "http://bing.msn.cn/dict/"
+                }
+            ],
+            "name": "explicable",
+            "bingId": "E887B7F77D2C7D23DC8C361742C15FD9",
+            "pronunciation": "ɪk'splɪkəb(ə)l,ɪk'splɪkəb(ə)l",
+            "pronunciationAudio": {
+                "contentUrl": "https://dictionary.blob.core.chinacloudapi.cn/media/audio/tom/e8/87/E887B7F77D2C7D23DC8C361742C15FD9.mp3"
+            },
+            "meaningGroups": [
+                {
+                    "meanings": [
+                        {
+                            "richDefinitions": [
+                                {
+                                    "fragments": [
+                                        {
+                                            "text": "可解释"
+                                        },
+                                        {
+                                            "text": "可说明"
+                                        },
+                                        {
+                                            "text": "可理解"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "partsOfSpeech": [
+                        {
+                            "name": "形容词",
+                            "description": "快速释义"
+                        }
+                    ]
+                },
+                {
+                    "meanings": [
+                        {
+                            "richDefinitions": [
+                                {
+                                    "fragments": [
+                                        {
+                                            "text": "可解释的"
+                                        },
+                                        {
+                                            "text": "可说明的"
+                                        },
+                                        {
+                                            "text": "可以解释的"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "partsOfSpeech": [
+                        {
+                            "name": "网络",
+                            "description": "快速释义"
+                        }
+                    ]
+                },
+                {
+                    "meanings": [
+                        {
+                            "richDefinitions": [
+                                {
+                                    "fragments": [
+                                        {
+                                            "text": "可解释的,可说明的,可辩明的"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "fragments": [
+                                        {
+                                            "text": "可以解释的"
+                                        }
+                                    ],
+                                    "examples": [
+                                        "Social diversity is thus explicable in terms of an underlying structure consisting largely of economic factors.",
+                                        "因此,如果依据主要由经济因素组成的基础结构,则社会的多样性是可以解释的。"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "partsOfSpeech": [
+                        {
+                            "name": "形容词",
+                            "description": "英汉"
+                        }
+                    ]
+                },
+                {
+                    "meanings": [
+                        {
+                            "richDefinitions": [
+                                {
+                                    "fragments": [
+                                        {
+                                            "text": "可解释的"
+                                        }
+                                    ],
+                                    "examples": [
+                                        "http://www.docin.com/p-158626576.html"
+                                    ]
+                                },
+                                {
+                                    "fragments": [
+                                        {
+                                            "text": "可说明"
+                                        }
+                                    ],
+                                    "examples": [
+                                        "http://www.docin.com/p-158626576.html"
+                                    ]
+                                },
+                                {
+                                    "fragments": [
+                                        {
+                                            "text": "可说明的"
+                                        }
+                                    ],
+                                    "examples": [
+                                        "http://doc.mbalib.com/view/815f58f3c7aa9dc6c1a3edd82c6eda8f.html"
+                                    ]
+                                },
+                                {
+                                    "fragments": [
+                                        {
+                                            "text": "可以解释的"
+                                        }
+                                    ],
+                                    "examples": [
+                                        "http://www.douban.com/group/topic/4824898/"
+                                    ]
+                                },
+                                {
+                                    "fragments": [
+                                        {
+                                            "text": "可辩明的"
+                                        }
+                                    ],
+                                    "examples": [
+                                        "http://quizlet.com/3295348/100-flash-cards/"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "partsOfSpeech": [
+                        {
+                            "name": "网络",
+                            "description": "英汉"
+                        }
+                    ]
+                },
+                {
+                    "meanings": [
+                        {
+                            "richDefinitions": [
+                                {
+                                    "fragments": [
+                                        {
+                                            "text": "able to be explained"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "fragments": [
+                                        {
+                                            "text": "easy to explain and understand"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "partsOfSpeech": [
+                        {
+                            "name": "形容词",
+                            "description": "英英"
+                        }
+                    ]
+                },
+                {
+                    "meanings": [
+                        {
+                            "richDefinitions": [
+                                {
+                                    "fragments": [
+                                        {
+                                            "text": "ɪk'splɪkəb(ə)l"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "partsOfSpeech": [
+                        {
+                            "name": "US",
+                            "description": "发音"
+                        }
+                    ]
+                },
+                {
+                    "meanings": [
+                        {
+                            "richDefinitions": [
+                                {
+                                    "fragments": [
+                                        {
+                                            "text": "ɪk'splɪkəb(ə)l"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "partsOfSpeech": [
+                        {
+                            "name": "UK",
+                            "description": "发音"
+                        }
+                    ]
+                },
+                {
+                    "meanings": [
+                        {
+                            "richDefinitions": [
+                                {
+                                    "fragments": [
+                                        {
+                                            "text": "ɪk'splɪkəb(ə)l,ɪk'splɪkəb(ə)l"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "partsOfSpeech": [
+                        {
+                            "name": "ALL",
+                            "description": "发音"
+                        }
+                    ]
+                },
+                {
+                    "meanings": [
+                        {
+                            "richDefinitions": [],
+                            "synonyms": [
+                                {
+                                    "name": "explainable"
+                                },
+                                {
+                                    "name": "understandable"
+                                },
+                                {
+                                    "name": "reasonable"
+                                },
+                                {
+                                    "name": "justifiable"
+                                },
+                                {
+                                    "name": "rational"
+                                }
+                            ],
+                            "antonyms": [
+                                {
+                                    "name": "inexplicable"
+                                }
+                            ]
+                        }
+                    ],
+                    "partsOfSpeech": [
+                        {
+                            "name": "形容词",
+                            "description": "分类词典"
+                        }
+                    ]
+                },
+                {
+                    "meanings": [
+                        {
+                            "richDefinitions": [
+                                {
+                                    "fragments": [],
+                                    "subDefinitions": [
+                                        {
+                                            "fragments": [
+                                                {
+                                                    "text": "that can be explained or understood"
+                                                },
+                                                {
+                                                    "text": "可解释；可说明；可理解"
+                                                }
+                                            ],
+                                            "domains": [
+                                                "Definition"
+                                            ]
+                                        },
+                                        {
+                                            "fragments": [
+                                                {
+                                                    "text": "His behaviour is only explicable in terms of(= because of) his recent illness."
+                                                },
+                                                {
+                                                    "text": "他的行为只能用他最近患病来解释。"
+                                                }
+                                            ],
+                                            "domains": [
+                                                "Examples",
+                                                "Sentence"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "partsOfSpeech": [
+                        {
+                            "name": "形容词",
+                            "description": "权威英汉双解"
+                        }
+                    ]
+                },
+                {
+                    "meanings": [
+                        {
+                            "richDefinitions": [
+                                {
+                                    "fragments": [
+                                        {
+                                            "text": "ɪk'splɪkəbl"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "partsOfSpeech": [
+                        {
+                            "name": "UK",
+                            "description": "权威英汉双解发音"
+                        }
+                    ]
+                },
+                {
+                    "meanings": [
+                        {
+                            "richDefinitions": [
+                                {
+                                    "fragments": [
+                                        {
+                                            "text": "ɪk'splɪkəbl"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "partsOfSpeech": [
+                        {
+                            "name": "US",
+                            "description": "权威英汉双解发音"
+                        }
+                    ]
+                },
+                {
+                    "meanings": [
+                        {
+                            "richDefinitions": [
+                                {
+                                    "fragments": [
+                                        {
+                                            "text": "ɪk'splɪkəbl,ɪk'splɪkəbl"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "partsOfSpeech": [
+                        {
+                            "name": "ALL",
+                            "description": "权威英汉双解发音"
+                        }
+                    ]
+                },
+                {
+                    "meanings": [
+                        {
+                            "richDefinitions": [
+                                {
+                                    "fragments": [],
+                                    "examples": [
+                                        "{1#他们$1}{2#对$2}{3#她$3}{4#的$4}{5#生活$5}{6#的$6}{7#影响$7}{8#，$8}{9#单$9}{10#就$10}{11#她$11}{12#的$12}{13#欲望$13}{14#性质$14}{15#而言$15}{16#，$16}{17#是$17}{18#显而易见$18}{19#的$19}{20#。$20}",
+                                        "6684022C38248A293010F4478F2EE1DB",
+                                        "{1#Their$1} {7#influence$7} {2#upon$2} {3#her$3} {5#life$5} {17#is$17} {#*explicable*$} {9#alone$9} by the {14#nature$14} {4#of$4} {11#her$11} longings{20#.$20}",
+                                        "6B7C43B9ACE3D0A8B8E2CC408B2F574E"
+                                    ]
+                                },
+                                {
+                                    "fragments": [],
+                                    "examples": [
+                                        "{1#因此$1}{2#，$2}{##*{3#如果$3}*$$}{4#依据$4}{5#主要$5}{6#由$6}{7#经济$7}{8#因素$8}{9#组成$9}{10#的$10}{11#基础$11}{12#结构$12}{13#，$13}{14#则$14}{15#社会$15}{16#的$16}{17#多样性$17}{18#是$18}{19#可以$19}{20#解释$20}{21#的$21}{22#。$22}",
+                                        "A655015CCDBE5A338216DD491642FFB2",
+                                        "{15#Social$15} {17#diversity$17} {18#is$18} {1#thus$1} {#*{3#explicable$3}*$} in {4#terms$4} of an {11#underlying$11} {12#structure$12} {6#consisting$6} {5#largely$5} of {7#economic$7} {8#factors$8}{22#.$22}",
+                                        "9A864B58E9BE0CA951CD838BA20FB5B5"
+                                    ]
+                                },
+                                {
+                                    "fragments": [],
+                                    "examples": [
+                                        "{1#他$1}{2#因$2}{3#近日$3}{4#患病$4}{5#，$5}{6#这种$6}{7#表现$7}{8#是$8}{9#可以$9}{10#理解$10}{11#的$11}{12#。$12}",
+                                        "47C8DE5D0B6EE120F8F28A7EFF05DB47",
+                                        "{1#His$1} {7#behaviour$7} {8#is$8} {#*explicable*$} in the {10#light$10} {11#of$11} his {3#recent$3} {4#illness$4}{12#.$12}",
+                                        "83589C1BC911D41956A9FB4300F1783E"
+                                    ]
+                                },
+                                {
+                                    "fragments": [],
+                                    "examples": [
+                                        "{1#为了$1}{2#公正$2}{3#起见$3}{4#，$4}{5#我们$5}{6#同意$6}{7#这样$7}{8#的$8}{9#假定$9}{10#：$10}{11#宇宙$11}{12#中$12}{13#的$13}{14#一切都$14}{16#是$16}{17#可以$17}{18#解释$18}{19#的$19}{20#，$20}{21#或者$21}{22#最终$22}{23#都$23}{24#将$24}{25#得到$25}{26#物理学上$26}{28#的$28}{29#解释$29}{30#。$30}",
+                                        "CADE11405CB7257DDBA8C6692A925AAC",
+                                        "{1#To$1} do {7#this$7} {2#fairly$2} {5#we$5} {9#grant$9} the stipulation {9#that$9} {14#everything$14} {12#in$12} the {11#universe$11} {16#is$16} {#*explicable*$}{4#,$4} {21#or$21} {24#will$24} {22#ultimately$22} {17#be$17} {26#physically$26} {#*explicable*$}{30#.$30}",
+                                        "B648026B10F9AC319A2939400A03F4E9"
+                                    ]
+                                },
+                                {
+                                    "fragments": [],
+                                    "examples": [
+                                        "{1#那些$1}{2#可以$2}{3#得到$3}{4#解释$4}{5#的$5}{6#部分$6}{7#总计$7}{8#占$8}{9#到$9}{10#两性$10}{11#之间$11}{12#全部$12}{13#收入$13}{14#差距$14}{15#的$15}{16#77%$16}{17#。$17}",
+                                        "6871BA8AD46A444C669B2702CD11585D",
+                                        "{#*Explicable*$} differences {7#amounted$7} {9#to$9} {16#77%$16} {6#of$6} the {12#overall$12} {13#pay$13} {14#gap$14} {11#between$11} the {10#sexes$10}{17#.$17}",
+                                        "F48166573AC403EA67B1C5E947EDD4B6"
+                                    ]
+                                },
+                                {
+                                    "fragments": [],
+                                    "examples": [
+                                        "{1#在$1}{2#这样$2}{3#一个$3}{4#无所不包$4}{5#且$5}{6#能$6}{7#完全$7}{8#得出$8}{9#解释$9}{10#的$10}{11#宇宙$11}{12#，$12}{13#上帝$13}{14#的$14}{15#位置$15}{16#又$16}{17#在$17}{18#哪里$18}{19#？$19}",
+                                        "7675CC53E26A9A0A44B4EE780EBE1232",
+                                        "{1#In$1} {2#such$2} {3#an$3} {4#all-encompassing$4} {5#and$5} {7#fully$7} {#*explicable*$} {11#cosmos$11}{12#,$12} {16#then$16}{12#,$12} what {15#place$15} {10#for$10} {13#God$13}{19#?$19}",
+                                        "540001D2DD7B315F8DC313EDCE9A394B"
+                                    ]
+                                },
+                                {
+                                    "fragments": [],
+                                    "examples": [
+                                        "{1#而$1}{2#我们$2}{3#大家$3}{4#都$4}{5#采取$5}{6#了$6}{7#这个$7}{8#更$8}{9#难$9}{10#理解$10}{11#的$11}{12#步骤$12}{13#—$13}{14#—$14}{15#在$15}{16#广场$16}{17#饭店$17}{18#租用$18}{19#了$19}{20#一$20}{21#间$21}{22#套房$22}{23#的$23}{24#客厅$24}{25#。$25}",
+                                        "064A17739BCE70117F270083B684072A",
+                                        "{1#And$1} {2#we$2} {3#all$3} {5#took$5} {7#the$7} {8#less$8} {#*explicable*$} {12#step$12} {11#of$11} engaging the {24#parlor$24} of {20#a$20} {22#suite$22} {15#in$15} the {16#Plaza$16} {17#Hotel$17}{25#.$25}",
+                                        "5BB95DFE84E9B62DA3E88391A6F8532C"
+                                    ]
+                                },
+                                {
+                                    "fragments": [],
+                                    "examples": [
+                                        "{1#关于$1}{2#英国$2}{3#的$3}{4#三叉戟$4}{5#核$5}{6#威慑$6}{7#潜艇$7}{8#则$8}{9#更$9}{10#容易$10}{11#解释$11}{12#。$12}",
+                                        "5D82C8A5CB27CEB8156164632C62F097",
+                                        "The announcement {1#on$1} {2#Britain$2}{7#'s$7} {4#Trident$4} {5#nuclear$5} {6#deterrent$6} {8#is$8} {9#more$9} {#*explicable*$}{12#.$12}",
+                                        "4824AF96FB8518E15EE19BA9A9E945C4"
+                                    ]
+                                },
+                                {
+                                    "fragments": [],
+                                    "examples": [
+                                        "{1#实验$1}{2#结果$2}{3#与$3}{4#其他$4}{5#方法$5}{6#相比$6}{7#更$7}{8#具有$8}{9#可$9}{10#解释$10}{11#性$11}{12#。$12}",
+                                        "B75E6EE26942E49AEEF97B0919CA5CA8",
+                                        "{6#Compared$6} {8#with$8} the {2#results$2} {11#of$11} {4#other$4} {5#methods$5}, the {2#result$2} {9#is$9} {7#more$7} {#*explicable*$} {12#.$12}",
+                                        "3CD067A496AF94E122D8FED0D18BBE13"
+                                    ]
+                                },
+                                {
+                                    "fragments": [],
+                                    "examples": [
+                                        "{1#因为$1}{2#某些$2}{3#亊$3}{4#，$4}{5#某些$5}{6#人$6}{7#在$7}{8#言语$8}{9#和$9}{10#争执$10}{11#间$11}{12#，$12}{13#可以$13}{14#令$14}{15#你$15}{16#感到$16}{17#有种$17}{18#莫名$18}{19#的$19}{20#疼$20}{21#。$21}{22#这$22}{23#是$23}{24#什么$24}{25#呢$25}{26#？$26}{21#。$21}",
+                                        "60BAE19AA8CBF6C692065598E0999B68",
+                                        "{1#Because$1} of {5#certain$5} things{4#,$4} {2#Certain$2} {6#people$6} {7#in$7} spoken {8#language$8} {9#with$9} {10#dispute$10}{12#,$12} {13#May$13} {14#make$14} {15#you$15} {16#feel$16} as {17#plants$17} {7#in$7} {#*explicable*$} {20#pain$20}{21#.$21}",
+                                        "4E0CF30DC00A6AC0EDBD1AFD78466716"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "partsOfSpeech": [
+                        {
+                            "description": "例句"
+                        }
+                    ]
+                },
+                {
+                    "meanings": [
+                        {
+                            "richDefinitions": [
+                                {
+                                    "fragments": [],
+                                    "examples": [
+                                        "inexplicable",
+                                        "费解的$$莫名其妙的$$无法说明的"
+                                    ]
+                                },
+                                {
+                                    "fragments": [],
+                                    "examples": [
+                                        "exploitable",
+                                        "〔地〕可开采的"
+                                    ]
+                                },
+                                {
+                                    "fragments": [],
+                                    "examples": [
+                                        "expendable",
+                                        "消耗品$$可消费的$$可消耗的$$消耗性的$$牺牲者"
+                                    ]
+                                },
+                                {
+                                    "fragments": [],
+                                    "examples": [
+                                        "explainable",
+                                        "可解释的$$可说明的"
+                                    ]
+                                },
+                                {
+                                    "fragments": [],
+                                    "examples": [
+                                        "applicable",
+                                        "合适的$$适当的$$可适用的$$能应用的"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "partsOfSpeech": [
+                        {
+                            "name": "音近词",
+                            "description": "提示"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
